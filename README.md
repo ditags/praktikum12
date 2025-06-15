@@ -4,7 +4,7 @@ Repository ini berisi template awal untuk tugas Praktikum 12.
 
 ## Isi Project
 - Struktur project Android Studio (app, gradle, dsb) sudah dibuat.
-- `MainActivity` belum diisi, masih dalam tahap awal.
+- MainActivity belum diisi, masih dalam tahap awal.
 
 ## Tujuan
 Repositori ini akan digunakan sebagai dasar untuk latihan deployment dan pengelolaan repository GitHub (code, release, dan dokumentasi).
